@@ -21,6 +21,6 @@
 </ul>
 </li>
 </ul>
-<p><em>Xoş həftəsonu.</em></p>
+<p><em>Ugurlar.</em></p>
 </article>
       </div>
